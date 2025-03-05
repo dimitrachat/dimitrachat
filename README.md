@@ -1,4 +1,5 @@
 ## 👩‍💻 A Little Bit About Me and My Interests
+```yaml
 name: Dimitra Chatzopoulou
 located_in: Athens, Greece
 current_job: Revenue Management Business Intelligence Analyst
@@ -22,7 +23,7 @@ fields_of_interests:
 currently_learning: ["Html5, CSS, Javascrpit | Parallel Computing"]
 2025 Goals: ["Build my first 2 websites, Receive Microsoft Certified Azure Data Engineer Associate DP203 "]
 hobbies: ["crossfit", "yoga", "travelling", "music", "museums"]
-
+```
 
 <!--
 **dimitrachat/dimitrachat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
