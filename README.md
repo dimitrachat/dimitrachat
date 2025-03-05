@@ -37,6 +37,8 @@ hobbies: ["crossfit", "yoga", "travelling", "music", "museums"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="php" width="45" height="45"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/excel" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="php" width="45" height="45"/>
 </p>
 
           
