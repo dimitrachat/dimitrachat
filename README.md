@@ -25,3 +25,6 @@ currently_learning: ["Html5, CSS, Javascrpit | Parallel Computing"]
 hobbies: ["crossfit", "yoga", "travelling", "music", "museums"]
 ```
 ## 🚀  Technical Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
