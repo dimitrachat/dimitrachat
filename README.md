@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👩‍💻 A Little Bit About Me and My Interests
 
 <!--
 **dimitrachat/dimitrachat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
