@@ -39,4 +39,4 @@ hobbies: ["crossfit", "yoga", "travelling", "music", "museums"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-          
+![Snake animation](https://github.com/dimitrachat/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)          
