@@ -7,7 +7,7 @@ education:
   [
     "Master in Data Science",
     "Bachelor in Economic Science",
-    "Self-Taught Developer and Designer",
+    "Learning to be Developer and Designer",
   ]
 company: Aegean Airlines
 
