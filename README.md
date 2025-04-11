@@ -20,7 +20,7 @@ fields_of_interests:
     "Data Analytics" 
     ]
  
-currently_learning: ["Html5, CSS, Javascrpit | Parallel Computing"]
+currently_learning: ["Html5, CSS, Javascrpit"]
 2025 Goals: ["Build my first 2 websites, Receive Microsoft Certified Azure Data Engineer Associate DP203 "]
 hobbies: ["crossfit", "yoga", "travelling", "music", "museums"]
 ```
