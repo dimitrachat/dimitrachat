@@ -21,7 +21,7 @@ fields_of_interests:
     ]
  
 currently_learning: ["Html5, CSS, Javascrpit"]
-2025 Goals: ["Build my first 2 websites, Receive Microsoft Certified Azure Data Engineer Associate DP203 "]
+2025 Goals: ["Build my first website, Beginner in German, Databricks"]
 hobbies: ["crossfit", "yoga", "travelling", "music", "museums"]
 ```
 ## 🚀  Technical Skills
