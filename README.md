@@ -2,7 +2,7 @@
 ```yaml
 name: Dimitra Chatzopoulou
 located_in: Athens, Greece
-current_job: Revenue Management Business Intelligence Analyst
+current_job: Business Intelligence Engineer
 education:
   [
     "Master in Data Science",
