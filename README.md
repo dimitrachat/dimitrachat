@@ -7,7 +7,7 @@ education:
   [
     "Master in Data Science",
     "Bachelor in Economic Science",
-    "Learning to be Developer and Designer",
+    "Learning to be Developer and Designer for fun",
   ]
 company: Aegean Airlines
 
@@ -20,7 +20,7 @@ fields_of_interests:
     "Data Analytics" 
     ]
  
-currently_learning: ["Html5, CSS, Javascrpit"]
+currently_learning: ["Html5, CSS, Javascrpit,German"]
 2025 Goals: ["Build my first website, Beginner in German, Databricks"]
 hobbies: ["crossfit", "yoga", "travelling", "music", "museums"]
 ```
