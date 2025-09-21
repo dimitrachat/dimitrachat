@@ -2,14 +2,14 @@
 ```yaml
 name: Dimitra Chatzopoulou
 located_in: Athens, Greece
-current_job: Business Intelligence Engineer
+current_job: BI Engineer
 education:
   [
     "Master in Data Science",
     "Bachelor in Economic Science",
     "Learning to be Developer and Designer for fun",
   ]
-company: Aegean Airlines
+company: Novibet
 
 fields_of_interests:
   [
@@ -20,8 +20,8 @@ fields_of_interests:
     "Data Analytics" 
     ]
  
-currently_learning: ["Html5, CSS, Javascrpit,German"]
-2025 Goals: ["Build my first website, Beginner in German, Databricks"]
+currently_learning: ["Databricks","Html5, CSS, Javascrpit,German"]
+2025 Goals: ["Build my first website, Beginner in German]
 hobbies: ["crossfit", "yoga", "travelling", "music", "museums"]
 ```
 ## 🚀  Technical Skills
